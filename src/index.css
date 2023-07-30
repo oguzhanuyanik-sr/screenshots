@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+body {
+  @apply font-montserrat bg-white-200 overflow-x-hidden;
+}
+
+#root {
+  @apply w-full h-full;
+}
+
+img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+
+/* Navbar */
+.nav-border {
+  border-bottom: 10px solid #3f72af;
+}
+
+/* Inch Buttons */
+.nav-button {
+  @apply font-bold px-4 py-0 h-full;
+}
+
+.nav-button.active {
+  color: #9c88ff;
+  box-shadow: 0px 10px 0px 0px #9c88ff;
+}
+
+/* Title */
+.gradient-text {
+  background: -webkit-linear-gradient(135deg, #b06ab3, #4568dc, #26bda6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Phone Frame */
+#phone,
+#phone > div,
+#phone-face > div:first-child,
+#camera-and-speaker > div,
+#screen,
+#home-button {
+  border: 1px solid gray;
+  box-sizing: border-box;
+}
+
+#phone {
+  position: relative;
+  width: 247.2px;
+  height: 511.2px;
+  border-radius: 40.2px;
+  margin: 0 auto;
+}
+#phone-face {
+  width: 240px;
+  height: 504px;
+  margin: 2.6px auto;
+  border-radius: 36.6px;
+}
+#sensor {
+  width: 6.6px;
+  height: 6.6px;
+  border-radius: 3px;
+  margin: 9px auto 0 auto;
+}
+#camera-and-speaker {
+  width: 66px;
+  margin-top: 7.8px;
+  margin-left: 73.2px;
+  font-size: 0;
+}
+#camera {
+  display: inline-block;
+  vertical-align: middle;
+  width: 10.8px;
+  height: 10.8px;
+  border-radius: 10.8px;
+}
+#speaker {
+  display: inline-block;
+  vertical-align: middle;
+  width: 39.6px;
+  height: 3.6px;
+  border-radius: 1.8px;
+  margin-left: 15.6px;
+}
+#screen {
+  background-color: white;
+  width: 225px;
+  height: 400.2px;
+  margin: 18px auto 0 auto;
+  overflow: hidden;
+}
+#content {
+  box-sizing: border-box;
+  width: 166.6666666667%;
+  height: 166.6666666667%;
+  transform-origin: top left;
+  transform: scale(0.6, 0.6);
+  -webkit-font-smoothing: antialised;
+  -moz-osx-font-smoothing: grayscale;
+}
+#home-button {
+  width: 35.4px;
+  height: 35.4px;
+  margin: 10.2px auto 0 auto;
+  border-radius: 35.4px;
+}
+#mute-button {
+  position: absolute;
+  left: -3.6px;
+  top: 66.6px;
+  height: 19.8px;
+  width: 3.6px;
+}
+#volume-up-button {
+  position: absolute;
+  left: -3px;
+  top: 108.6px;
+  height: 39px;
+  width: 3px;
+  border-radius: 3px 0 0 3px;
+}
+#volume-down-button {
+  position: absolute;
+  left: -3px;
+  top: 159.6px;
+  height: 39px;
+  width: 3px;
+  border-radius: 3px 0 0 3px;
+}
+#power-button {
+  position: absolute;
+  right: -3px;
+  top: 107.4px;
+  height: 39px;
+  width: 3px;
+  border-radius: 0 3px 3px 0;
+}

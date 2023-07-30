@@ -1,0 +1,179 @@
+{
+  "english": {
+    "dataset": [
+      {
+        "model": "IPHONE_67",
+        "size": 6.7,
+        "images": null
+      },
+      {
+        "model": "IPHONE_65",
+        "size": 6.5,
+        "images": [
+          "https://play-lh.googleusercontent.com/ly_bkM-XBuXw9ygjBlBJ5pDYvs-46AJdH_ZSMGwGUC4FB7-HACRBPOL_-hCZbX5TnX8=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/ClY1dvTqL3SDILc0Hi2HoRF-NJ-V6kaN8FjglaHh61DXOshGCfhH7tMrLpvAgP42E5Ed=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/dDFdwXdmUU8E6RChjBSnBv7_l6_gjgyGMUjVZoTrmACs-XoXEgn8Dr-xMqz2Io3zSg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/6pKrib0Te4Zc7Gej7ujMsjwv39mngc4QfOdADUzCraeLsTR2Y8M5unl9MCKiz1tJiB9t=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_61",
+        "size": 6.1,
+        "images": [
+          "https://play-lh.googleusercontent.com/ly_bkM-XBuXw9ygjBlBJ5pDYvs-46AJdH_ZSMGwGUC4FB7-HACRBPOL_-hCZbX5TnX8=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/ClY1dvTqL3SDILc0Hi2HoRF-NJ-V6kaN8FjglaHh61DXOshGCfhH7tMrLpvAgP42E5Ed=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/dDFdwXdmUU8E6RChjBSnBv7_l6_gjgyGMUjVZoTrmACs-XoXEgn8Dr-xMqz2Io3zSg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/6pKrib0Te4Zc7Gej7ujMsjwv39mngc4QfOdADUzCraeLsTR2Y8M5unl9MCKiz1tJiB9t=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_58",
+        "size": 5.8,
+        "images": [
+          "https://play-lh.googleusercontent.com/ly_bkM-XBuXw9ygjBlBJ5pDYvs-46AJdH_ZSMGwGUC4FB7-HACRBPOL_-hCZbX5TnX8=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/ClY1dvTqL3SDILc0Hi2HoRF-NJ-V6kaN8FjglaHh61DXOshGCfhH7tMrLpvAgP42E5Ed=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/dDFdwXdmUU8E6RChjBSnBv7_l6_gjgyGMUjVZoTrmACs-XoXEgn8Dr-xMqz2Io3zSg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/6pKrib0Te4Zc7Gej7ujMsjwv39mngc4QfOdADUzCraeLsTR2Y8M5unl9MCKiz1tJiB9t=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_55",
+        "size": 5.5,
+        "images": null
+      },
+      {
+        "model": "IPHONE_47",
+        "size": 4.7,
+        "images": null
+      },
+      {
+        "model": "IPHONE_40",
+        "size": 4.0,
+        "images": null
+      }
+    ]
+  },
+  "turkish": {
+    "dataset": [
+      {
+        "model": "IPHONE_67",
+        "size": 6.7,
+        "images": null
+      },
+      {
+        "model": "IPHONE_65",
+        "size": 6.5,
+        "images": null
+      },
+      {
+        "model": "IPHONE_61",
+        "size": 6.1,
+        "images": [
+          "https://play-lh.googleusercontent.com/Zqpa0qMcxqzNEnBLAlIxVgee60O52lF2h5KiKZ9tJEjlLQxp00NqZM166e14XaUo0dw1=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/lm6hAz-55V9kQ3UoHVJvw-t0KwUChan8gPL5hPQyNgSqcmOywGgcVWEdTAP69ksTYEY=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/aHws1v7MhiqjFDpoe9iwInzRIdqXxLw1WQhYmovqwqdJKPz-aVTGW2rCU7i25A04nyNP=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/qqCP00SqXCF4hu3eACzB8nFCChRq4Fn9gnL8fuZdTqtptWUTZcopjtNeEo6HKHCKpA=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_58",
+        "size": 5.8,
+        "images": [
+          "https://play-lh.googleusercontent.com/Zqpa0qMcxqzNEnBLAlIxVgee60O52lF2h5KiKZ9tJEjlLQxp00NqZM166e14XaUo0dw1=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/lm6hAz-55V9kQ3UoHVJvw-t0KwUChan8gPL5hPQyNgSqcmOywGgcVWEdTAP69ksTYEY=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/aHws1v7MhiqjFDpoe9iwInzRIdqXxLw1WQhYmovqwqdJKPz-aVTGW2rCU7i25A04nyNP=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/qqCP00SqXCF4hu3eACzB8nFCChRq4Fn9gnL8fuZdTqtptWUTZcopjtNeEo6HKHCKpA=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_55",
+        "size": 5.5,
+        "images": [
+          "https://play-lh.googleusercontent.com/Zqpa0qMcxqzNEnBLAlIxVgee60O52lF2h5KiKZ9tJEjlLQxp00NqZM166e14XaUo0dw1=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/lm6hAz-55V9kQ3UoHVJvw-t0KwUChan8gPL5hPQyNgSqcmOywGgcVWEdTAP69ksTYEY=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/aHws1v7MhiqjFDpoe9iwInzRIdqXxLw1WQhYmovqwqdJKPz-aVTGW2rCU7i25A04nyNP=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/qqCP00SqXCF4hu3eACzB8nFCChRq4Fn9gnL8fuZdTqtptWUTZcopjtNeEo6HKHCKpA=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_47",
+        "size": 4.7,
+        "images": [
+          "https://play-lh.googleusercontent.com/Zqpa0qMcxqzNEnBLAlIxVgee60O52lF2h5KiKZ9tJEjlLQxp00NqZM166e14XaUo0dw1=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/lm6hAz-55V9kQ3UoHVJvw-t0KwUChan8gPL5hPQyNgSqcmOywGgcVWEdTAP69ksTYEY=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/aHws1v7MhiqjFDpoe9iwInzRIdqXxLw1WQhYmovqwqdJKPz-aVTGW2rCU7i25A04nyNP=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/qqCP00SqXCF4hu3eACzB8nFCChRq4Fn9gnL8fuZdTqtptWUTZcopjtNeEo6HKHCKpA=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_40",
+        "size": 4.0,
+        "images": [
+          "https://play-lh.googleusercontent.com/Zqpa0qMcxqzNEnBLAlIxVgee60O52lF2h5KiKZ9tJEjlLQxp00NqZM166e14XaUo0dw1=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/lm6hAz-55V9kQ3UoHVJvw-t0KwUChan8gPL5hPQyNgSqcmOywGgcVWEdTAP69ksTYEY=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/aHws1v7MhiqjFDpoe9iwInzRIdqXxLw1WQhYmovqwqdJKPz-aVTGW2rCU7i25A04nyNP=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/qqCP00SqXCF4hu3eACzB8nFCChRq4Fn9gnL8fuZdTqtptWUTZcopjtNeEo6HKHCKpA=w2560-h1440-rw"
+        ]
+      }
+    ]
+  },
+  "german": {
+    "dataset": [
+      {
+        "model": "IPHONE_67",
+        "size": 6.7,
+        "images": [
+          "https://play-lh.googleusercontent.com/suIlhL2bO2bzqUF3iX5Y3nik5g4goEYdfd8ewrM-JTiX4LsQbmE4IjgC7lq6z0P46MYu=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/jz3MPv77_3i83YgT3cyaTG-hDquMMJN9Oev-PZB8a7YNpgIuCIhsDITnstYXkEj2fg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/vblm8KiCAwJvpqP4O2kYSq5WY2Wt8CPT7BE87ptY2Kh3idwQ6pUA-Oep8Z_G_Kk1s009=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/fOIywQhYv33-irXKo8UOb0GKa5md2NnKiIftvfFvntVlR5HGjsPGEEMt3lWhNZ6HlX4=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_65",
+        "size": 6.5,
+        "images": [
+          "https://play-lh.googleusercontent.com/suIlhL2bO2bzqUF3iX5Y3nik5g4goEYdfd8ewrM-JTiX4LsQbmE4IjgC7lq6z0P46MYu=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/jz3MPv77_3i83YgT3cyaTG-hDquMMJN9Oev-PZB8a7YNpgIuCIhsDITnstYXkEj2fg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/vblm8KiCAwJvpqP4O2kYSq5WY2Wt8CPT7BE87ptY2Kh3idwQ6pUA-Oep8Z_G_Kk1s009=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/fOIywQhYv33-irXKo8UOb0GKa5md2NnKiIftvfFvntVlR5HGjsPGEEMt3lWhNZ6HlX4=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_61",
+        "size": 6.1,
+        "images": [
+          "https://play-lh.googleusercontent.com/suIlhL2bO2bzqUF3iX5Y3nik5g4goEYdfd8ewrM-JTiX4LsQbmE4IjgC7lq6z0P46MYu=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/jz3MPv77_3i83YgT3cyaTG-hDquMMJN9Oev-PZB8a7YNpgIuCIhsDITnstYXkEj2fg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/vblm8KiCAwJvpqP4O2kYSq5WY2Wt8CPT7BE87ptY2Kh3idwQ6pUA-Oep8Z_G_Kk1s009=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/fOIywQhYv33-irXKo8UOb0GKa5md2NnKiIftvfFvntVlR5HGjsPGEEMt3lWhNZ6HlX4=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_58",
+        "size": 5.8,
+        "images": null
+      },
+      {
+        "model": "IPHONE_55",
+        "size": 5.5,
+        "images": [
+          "https://play-lh.googleusercontent.com/suIlhL2bO2bzqUF3iX5Y3nik5g4goEYdfd8ewrM-JTiX4LsQbmE4IjgC7lq6z0P46MYu=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/jz3MPv77_3i83YgT3cyaTG-hDquMMJN9Oev-PZB8a7YNpgIuCIhsDITnstYXkEj2fg=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/vblm8KiCAwJvpqP4O2kYSq5WY2Wt8CPT7BE87ptY2Kh3idwQ6pUA-Oep8Z_G_Kk1s009=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/fOIywQhYv33-irXKo8UOb0GKa5md2NnKiIftvfFvntVlR5HGjsPGEEMt3lWhNZ6HlX4=w2560-h1440-rw"
+        ]
+      },
+      {
+        "model": "IPHONE_47",
+        "size": 4.7,
+        "images": null
+      },
+      {
+        "model": "IPHONE_40",
+        "size": 4.0,
+        "images": null
+      }
+    ]
+  }
+}
