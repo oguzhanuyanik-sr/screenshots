@@ -1,4 +1,4 @@
-# APP SCREENSHOTS
+# iOS App Screenshots
 
 ```
 Tailwind, React, React Router, React Tilt, React Toastify
