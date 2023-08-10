@@ -1,7 +1,7 @@
-# iOS App Screenshots
+# Screenshots
 
 ```
-Tailwind, React, React Router, React Tilt, React Toastify
+React, React Router, React Tilt, React Toastify, Tailwind
 ```
 
 ### <a href="https://screenshots-pi.vercel.app/">Live Demo</a>
